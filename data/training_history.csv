@@ -1,0 +1,6 @@
+generation,average_reward,success_rate,successful_agents,total_agents,average_path_length,average_loss
+1,-166.6158,0.0,0,20,0.0,1.792144
+2,-158.7263,5.0,1,20,194.0,1.606772
+3,-167.2289,0.0,0,20,0.0,1.615534
+4,-172.3553,10.0,2,20,182.0,1.667812
+5,-160.2684,0.0,0,20,0.0,1.664955
